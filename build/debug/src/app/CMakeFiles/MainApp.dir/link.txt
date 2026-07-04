@@ -1,1 +1,0 @@
-/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/MainApp.dir/link.d CMakeFiles/MainApp.dir/main.c.o -o MainApp  -Wl,-rpath,/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/vendor/SDL ../renderer/libinternal_renderer.a ../core/libinternal_core.a ../../vendor/SDL/libSDL3.so.0.5.0
