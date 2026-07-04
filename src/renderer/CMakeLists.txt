@@ -2,9 +2,9 @@
 
 # Making the library
 add_library(internal_renderer STATIC
-  private/renderer.c
+  ${CMAKE_CURRENT_SOURCE_DIR}/private/renderer.c
 
-  include/renderer/renderer.h
+  ${CMAKE_CURRENT_SOURCE_DIR}/include/renderer/renderer.h
 )
 
 # Now the include dirs

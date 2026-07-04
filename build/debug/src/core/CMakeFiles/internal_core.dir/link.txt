@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinternal_core.a CMakeFiles/internal_core.dir/private/core.c.o
+/usr/bin/ranlib libinternal_core.a

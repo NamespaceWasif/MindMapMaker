@@ -1,9 +1,9 @@
 # Main CMake Targets for the app #
 
 # The main configs for the app
-cmake_minimum_required(3.30)
+cmake_minimum_required(VERSION 3.30)
 project(MainApp LANGUAGES C)
-set(CMAKE_C_STANDARD 20)
+set(CMAKE_C_STANDARD 23)
 
 # Linking the vendors AKA third parties
 add_subdirectory(vendor/SDL EXCLUDE_FROM_ALL)

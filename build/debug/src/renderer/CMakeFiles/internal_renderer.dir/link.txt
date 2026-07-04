@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinternal_renderer.a CMakeFiles/internal_renderer.dir/private/renderer.c.o
+/usr/bin/ranlib libinternal_renderer.a

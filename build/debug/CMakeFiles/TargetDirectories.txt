@@ -1,0 +1,16 @@
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/CMakeFiles/edit_cache.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/CMakeFiles/rebuild_cache.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/vendor/SDL/CMakeFiles/SDL3-shared.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/vendor/SDL/CMakeFiles/SDL3_test.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/vendor/SDL/CMakeFiles/SDL_uclibc.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/vendor/SDL/CMakeFiles/edit_cache.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/vendor/SDL/CMakeFiles/rebuild_cache.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/src/core/CMakeFiles/internal_core.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/src/core/CMakeFiles/edit_cache.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/src/core/CMakeFiles/rebuild_cache.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/src/renderer/CMakeFiles/internal_renderer.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/src/renderer/CMakeFiles/edit_cache.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/src/renderer/CMakeFiles/rebuild_cache.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/src/app/CMakeFiles/MainApp.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/src/app/CMakeFiles/edit_cache.dir
+/home/namespacewasif/Coding/Projects/MindMapMaker/build/debug/src/app/CMakeFiles/rebuild_cache.dir

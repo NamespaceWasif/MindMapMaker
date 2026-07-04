@@ -6,6 +6,6 @@
 #define APP_TICK_RATE 60
 #define DEFAULT_LANGUAGE "en-us"
 
-void app_init();
+void universal_sleep_ms(unsigned long ms);
 
 #endif //CORE_H
